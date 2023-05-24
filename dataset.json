@@ -1,0 +1,165 @@
+{
+    "data": [
+      {
+        "title": "Adobe Photoshop and UXP",
+        "paragraphs": [
+          {
+            "context": "Welcome to the world of Adobe Photoshop and UXP (Unified Extensibility Platform). UXP is powered by a modern JavaScript engine, offers a curated selection of UI components and a more streamlined workflow for developers. Never has there been a better time to see the future of extending and enhancing Photoshop. Integrate with other connected services, automate and customize workflows, and add brand new features - then easily share them with other Photoshop users.",
+            "qas": [
+              {
+                "question": "What is UXP?",
+                "id": "q1",
+                "answers": [
+                  {
+                    "text": "UXP stands for Unified Extensibility Platform.",
+                    "answer_start": 30
+                  }
+                ]
+              },
+              {
+                "question": "What powers UXP?",
+                "id": "q2",
+                "answers": [
+                  {
+                    "text": "UXP is powered by a modern JavaScript engine.",
+                    "answer_start": 66
+                  }
+                ]
+              },
+              {
+                "question": "What does UXP offer for developers?",
+                "id": "q3",
+                "answers": [
+                  {
+                    "text": "UXP offers a curated selection of UI components and a more streamlined workflow for developers.",
+                    "answer_start": 95
+                  }
+                ]
+              },
+              {
+                "question": "Can UXP be used to extend and enhance Photoshop?",
+                "id": "q4",
+                "answers": [
+                  {
+                    "text": "Yes, UXP can be used to extend and enhance Photoshop.",
+                    "answer_start": 141
+                  }
+                ]
+              },
+              {
+                "question": "What can be done with UXP in Photoshop?",
+                "id": "q5",
+                "answers": [
+                  {
+                    "text": "With UXP, you can integrate with other connected services, automate and customize workflows, and add brand new features.",
+                    "answer_start": 193
+                  }
+                ]
+              },
+              {
+                "question": "Can UXP extensions be shared with other Photoshop users?",
+                "id": "q6",
+                "answers": [
+                  {
+                    "text": "Yes, UXP extensions can be easily shared with other Photoshop users.",
+                    "answer_start": 274
+                  }
+                ]
+              },
+              {
+                "question": "What is the full form of UXP?",
+                "id": "q7",
+                "answers": [
+                  {
+                    "text": "The full form of UXP is Unified Extensibility Platform.",
+                    "answer_start": 30
+                  }
+                ]
+              },
+              {
+                "question": "What is the main benefit of UXP for developers?",
+                "id": "q8",
+                "answers": [
+                  {
+                    "text": "The main benefit of UXP for developers is a more streamlined workflow and a curated selection of UI components.",
+                    "answer_start": 95
+                  }
+                ]
+              },
+              {
+                "question": "What are the possibilities of integrating UXP with other services?",
+                "id": "q9",
+                "answers": [
+                  {
+                    "text": "With UXP, you can integrate with other connected services, automate workflows, and customize workflows.",
+                    "answer_start": 193
+                  }
+                ]
+              },
+              {
+                "question": "How can UXP enhance and extend Photoshop?",
+                "id": "q10",
+                "answers": [
+                  {
+                    "text": "UXP can enhance and extend Photoshop by adding brand new features.",
+                    "answer_start": 141
+                  }
+                ]
+              },
+              {
+                "question": "Is UXP limited to JavaScript development?",
+                "id": "q11",
+                "answers": [
+                  {
+                    "text": "Yes, UXP is primarily focused on JavaScript development.",
+                    "answer_start": 66
+                  }
+                ]
+              },
+              {
+                "question": "What is the process of sharing UXP extensions with other Photoshop users?",
+                "id": "q12",
+                "answers": [
+                  {
+                    "text": "UXP extensions can be easily shared with other Photoshop users.",
+                    "answer_start": 274
+                  }
+                ]
+              },
+              {
+                "question": "Can UXP customize the user interface in Photoshop?",
+                "id": "q13",
+                "answers": [
+                  {
+                    "text": "Yes, UXP allows customization of the user interface in Photoshop.",
+                    "answer_start": 193
+                  }
+                ]
+              },
+              {
+                "question": "How can UXP contribute to automating workflows in Photoshop?",
+                "id": "q14",
+                "answers": [
+                  {
+                    "text": "With UXP, you can automate workflows in Photoshop.",
+                    "answer_start": 193
+                  }
+                ]
+              },
+              {
+                "question": "Can UXP be used with other Adobe products?",
+                "id": "q15",
+                "answers": [
+                  {
+                    "text": "Yes, UXP is compatible with other Adobe products.",
+                    "answer_start": 193
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
